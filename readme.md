@@ -1,18 +1,18 @@
 ## Summary
-*Projects and Tutorials Related to Core SCIPY Components Including:*
+*Projects and tutorials related to core SCIPY components including:*
 
 * numpy
 * pandas
 * matplotlib
 
-In addition, the following relate packages are explored:
+In addition, the following related packages are explored:
 
 * plotly
 * numba
 * jupyter widgets
 
 ## Screenshots
-(to be added later :)
+(in production ...)
 
 ## License
 
@@ -27,5 +27,3 @@ Project Link: [https://github.com/TonySelfStudy/scipy](https://github.com/TonySe
 ## Resources & Acknowledgements
 
 * [https://www.scipy.org/](https://www.scipy.org/)
-* []()
-* []()
