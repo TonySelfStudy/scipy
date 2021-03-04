@@ -12,7 +12,7 @@ In addition, the following related packages are explored:
 * jupyter widgets
 
 ## Screenshots
-(in production ...)
+* More to follow ...
 
 ## License
 
